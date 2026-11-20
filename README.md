@@ -1,4 +1,6 @@
 # Air Battle
+[![OctoCounts](https://api.octocounts.com/badge/Cookie-LINcq/Air_Battle_3D_Engine/branch/main)](https://octocounts.com/github/Cookie-LINcq/Air_Battle_3D_Engine/tree/main)
+
 A two-player split-screen air combat game built on my self-developed 3D engine.
 
 ## Core Features
