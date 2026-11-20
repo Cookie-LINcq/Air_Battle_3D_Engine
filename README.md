@@ -4,7 +4,7 @@
 A two-player split-screen air combat game built on my self-developed 3D engine.
 
 ## Game Controls
-- Spacebar: pause, lock the aircraft, mainly for capturing high-speed scenes.
+- Spacebar: pause, lock the aircraft, mainly for capturing high-speed scenes
 
 ### Red Aircraft
 - W: speed up
