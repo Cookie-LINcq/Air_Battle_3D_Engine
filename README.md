@@ -3,6 +3,37 @@
 
 A two-player split-screen air combat game built on my self-developed 3D engine.
 
+## Game Controls
+spacebar: pause, lock the aircraft, mainly for capturing high-speed scenes.
+
+### Red Aircraft
+W: speed up
+S: slow down
+A: turn left
+D: turn right
+T: dive
+G: climb
+F: roll left
+H: roll right
+Z: toggle target marker
+E: hold to fire machine gun
+R: toggle machine gun
+Q: mark target / lock target / fire missile
+
+### Blue Aircraft
+I: speed up
+K: slow down
+J: turn left
+L: turn right
+↑: dive
+↓: climb
+←: roll left
+→: roll right
+M: toggle target marker
+O: hold to fire machine gun
+P: toggle machine gun
+U: mark target / lock target / fire missile
+
 ## Core Features
 - 3D coordinate transformation and quaternion rotation
 - 3D-to-3D and 3D-to-2D projection
