@@ -21,3 +21,6 @@ A two-player split-screen air combat game built on my self-developed 3D engine.
 4. Keep `3D_Engine.sln` and the `3D_Engine` source folder in the same directory
 5. Open `3D_Engine.sln` with Visual Studio
 6. Build the project and run the compiled program
+
+## Code Statistics
+https://octocounts.com/github/Cookie-LINcq/Air_Battle_3D_Engine
