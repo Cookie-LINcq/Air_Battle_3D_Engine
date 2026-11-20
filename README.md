@@ -55,5 +55,7 @@ A two-player split-screen air combat game built on my self-developed 3D engine.
 5. Open `3D_Engine.sln` with Visual Studio
 6. Build the project and run the compiled program
 
+> Tested on Windows with Visual Studio 2022 and EasyX. The exact minor version of EasyX is not tracked; any stable EasyX release compatible with Visual Studio 2022 is acceptable.
+
 ## Code Statistics
 https://octocounts.com/github/Cookie-LINcq/Air_Battle_3D_Engine
