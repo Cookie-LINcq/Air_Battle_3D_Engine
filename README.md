@@ -43,7 +43,7 @@ A two-player split-screen air combat game built on my self-developed 3D engine.
 ## Dependencies
 - Windows
 - Visual Studio: https://visualstudio.microsoft.com/
-- C++ Standard Library
+- C++ standard library
 - EasyX graphics library: https://easyx.cn/ (a free, simple C++ drawing library
  for Windows, supporting Visual Studio and MinGW series compilers)
 
