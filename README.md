@@ -1,5 +1,5 @@
 # Air Battle
-[![OctoCounts](https://api.octocounts.com/badge/Cookie-LINcq/Air_Battle_3D_Engine/branch/main)](https://octocounts.com/github/Cookie-LINcq/Air_Battle_3D_Engine/tree/main)
+[![OctoCounts](https://api.octocounts.com/api/reports/5a9172ea749b7a1b6d3164f6c4c79c5f02e467a87846b0d07dd796bbc5bf77d9/badge.svg)](https://octocounts.com/github/Cookie-LINcq/Air_Battle_3D_Engine/commit/b1dfd7c247df4f4b02a1926853e632c5aeb821eb?analysis=%7B%22ignoredDirs%22%3A%5B%5D%2C%22ignoredLanguages%22%3A%5B%5D%2C%22profile%22%3A%22default%22%2C%22includeDocs%22%3Afalse%2C%22includeTests%22%3Afalse%2C%22includeGenerated%22%3Afalse%7D&reportId=5a9172ea749b7a1b6d3164f6c4c79c5f02e467a87846b0d07dd796bbc5bf77d9)
 
 A two-player split-screen air combat game built on my self-developed 3D engine.
 
