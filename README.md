@@ -23,4 +23,5 @@ A two-player split-screen air combat game built on my self-developed 3D engine.
 6. Build the project and run the compiled program
 
 ## Code Statistics
+[![OctoCounts](https://api.octocounts.com/badge/Cookie-LINcq/Air_Battle_3D_Engine/branch/main)](https://octocounts.com/github/Cookie-LINcq/Air_Battle_3D_Engine/tree/main)
 https://octocounts.com/github/Cookie-LINcq/Air_Battle_3D_Engine
